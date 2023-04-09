@@ -1,0 +1,17 @@
+@import '../../mixins';
+@import '../../vars';
+
+.header_outer {
+    background-color: $background-shadowed;
+}
+
+.header_inner {
+    @include block-position;
+}
+
+.title {
+    @include title-text;
+    font-size: $title-big;
+    text-align: center;
+    padding: 10px 0;
+}

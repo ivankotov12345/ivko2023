@@ -1,0 +1,14 @@
+@import '../../mixins';
+@import '../../vars';
+
+.footer_outer{
+    background-color: $background-shadowed;
+    position: fixed;
+    width: 100%;
+    bottom: 0
+}
+
+.footer_inner {
+    @include block-position;
+    padding: 10px 10px;
+}

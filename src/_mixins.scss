@@ -1,0 +1,11 @@
+@mixin block-position {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+@mixin title-text {
+    text-transform: uppercase;
+    color: #363636;
+    margin: 0;
+}

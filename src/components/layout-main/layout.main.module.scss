@@ -1,0 +1,10 @@
+@import '../../mixins';
+@import '../../vars';
+
+.main_outer {
+    width: 100%;
+}
+
+.main_inner {
+    @include block-position;
+}
