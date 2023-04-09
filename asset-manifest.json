@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ivko2023/static/css/main.e6cae3f5.css",
+    "main.js": "/ivko2023/static/js/main.cde1f568.js",
+    "static/media/spritesheet.svg": "/ivko2023/static/media/spritesheet.a4e0eb7ad904a4858361.svg",
+    "index.html": "/ivko2023/index.html",
+    "main.e6cae3f5.css.map": "/ivko2023/static/css/main.e6cae3f5.css.map",
+    "main.cde1f568.js.map": "/ivko2023/static/js/main.cde1f568.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6cae3f5.css",
+    "static/js/main.cde1f568.js"
+  ]
+}
